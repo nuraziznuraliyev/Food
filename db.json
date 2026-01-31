@@ -1,0 +1,114 @@
+{
+    "offers": [
+        {
+    "src": "./img/offer1.png",
+    "alt": "Quattro Pasta",
+    "title": "Quattro Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "discount": 55,
+    "sale": 20
+  },
+  {
+    "src": "./img/offer2.png",
+    "alt": "Vegertarian Pasta",
+    "title": "Vegertarian Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "discount": 75,
+    "sale": 25
+  },
+  {
+    "src": "./img/offer3.png",
+    "alt": "Gluten-Free Pasta",
+    "title": "Gluten-Free Pasta",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, quibusdam.",
+    "discount": 25,
+    "sale": 15
+  }
+],
+ "menuOfferLeft": [
+  {
+    "img": "./img/food1.png",
+    "alt": "LASAL Cheese",
+    "name": "LASAL CHEESE",
+    "cost": "$18.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food2.png",
+    "alt": "JUMBO CRAB SHRIMP",
+    "name": "JUMBO CRAB SHRIMP",
+    "cost": "$24.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food3.png",
+    "alt": "KOKTAIL JUCIE",
+    "name": "KOKTAIL JUCIE",
+    "cost": "$12.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food4.png",
+    "alt": "CAPO STEAK",
+    "name": "CAPO STEAK",
+    "cost": "$60.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food5.png",
+    "alt": "ORGANIC FRUIT SALAD",
+    "name": "ORGANIC FRUIT SALAD",
+    "cost": "$8.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food6.png",
+    "alt": "CHEESE PIZZA",
+    "name": "CHEESE PIZZA",
+    "cost": "$18.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food7.jpeg",
+    "alt": "KOFTA MEAT",
+    "name": "KOFTA MEAT",
+    "cost": "$40.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food8.jpeg",
+    "alt": "SPANISH PIES",
+    "name": "SPANISH PIES",
+    "cost": "$14.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food9.jpeg",
+    "alt": "CHEESE TOST",
+    "name": "CHEESE TOST",
+    "cost": "$6.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food10.jpeg",
+    "alt": "FRUIT SALAD",
+    "name": "FRUIT SALAD",
+    "cost": "$14.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food11.jpeg",
+    "alt": "CHICKEN SHAWARMA",
+    "name": "CHICKEN SHAWARMA",
+    "cost": "$20.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  },
+  {
+    "img": "./img/food12.jpeg",
+    "alt": "MEGA CHEESE PIZZA",
+    "name": "MEGA CHEESE PIZZA",
+    "cost": "$30.00",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, explicabo."
+  }
+]
+} 
